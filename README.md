@@ -127,6 +127,10 @@ Evidencia: las reservas creadas con scripts persisten en Atlas incluso tras rein
 Actualmente el sitio mantiene un arreglo en memoria para inicializar reservas, de modo que siempre haya datos visibles al arrancar.  
 En la **Unidad 8** se abordará la migración completa a persistencia en Atlas, eliminando la dependencia de datos en memoria.
 
+### Evidencia de persistencia
+
+![Salida de terminal con pruebas](evidencia/evidencia-persistencia.png)
+
 ---
 
 ## Seguridad
